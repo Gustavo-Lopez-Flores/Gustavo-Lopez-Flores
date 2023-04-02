@@ -3,8 +3,8 @@
 <hr>
 
 <div style="display: inline_block"> 
-  💻 - Information Technology Technician <br>
-  ⏳ - I’m currently learning React Native <br>
+  💻 - Mobile Developer <br>
+  ⏳ - I’m currently learning Spring Boot <br>
   📫 - How to reach me:
 </div>
 
