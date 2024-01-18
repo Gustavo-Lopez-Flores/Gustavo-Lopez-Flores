@@ -3,8 +3,8 @@
 <hr>
 
 <div style="display: inline_block"> 
-  💻 - Mobile Developer <br>
-  ⏳ - I’m currently learning Spring Boot <br>
+  💻 - Mobile and Backend Developer <br>
+  ⏳ - I am currently researching cloud and generative AI <br>
   📫 - How to reach me:
 </div>
 
